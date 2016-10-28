@@ -10,6 +10,12 @@ namespace mcMath
     {
         public void mcTestMethod()
         {
+            int Caspers_mor_er_en_luder;
+            vægt_et_ton
+            if(Caspers_mor_er_en_luder>vægt_et_ton)
+            {
+                break;
+            }
         }
 
         public long Add(long val1, long val2)
