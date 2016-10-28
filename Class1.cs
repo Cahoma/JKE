@@ -16,6 +16,10 @@ namespace mcMath
         {
             return val1 + val2+80;
         }
+        public long Mul(long val1, long val2)
+        {
+            return val1 * val2;
+        }
 
         public bool Extra
         {
