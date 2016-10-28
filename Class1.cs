@@ -20,6 +20,10 @@ namespace mcMath
         {
             return val1 * val2;
         }
+        public long Sub(long val1, long val2)
+        {
+            return val1-val2;
+        }
 
         public bool Extra
         {
